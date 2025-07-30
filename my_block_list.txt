@@ -1,3 +1,5 @@
+||favbet.partners^
+||cdn.umh.ua^
 ||umh.ua^
 ||gvt3.com^
 ||amazonaws.com^
