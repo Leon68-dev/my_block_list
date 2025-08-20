@@ -1,3 +1,11 @@
+@@||viber.com^
+@@||vb-net.com^
+@@||rakuten.com^
+@@||firebaseinstallations.googleapis.com^
+@@||firebase-settings.crashlytics.com^
+@@||app-measurement.com^
+@@||adjust.com^
+@@||appsflyer.com^
 ||777.ua^
 ||amazonaws.com^
 ||bestssrv.com^
