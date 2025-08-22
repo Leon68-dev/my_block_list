@@ -6,6 +6,7 @@
 @@||app-measurement.com^
 @@||adjust.com^
 @@||appsflyer.com^
+@@||mixpanel.com^
 ||777.ua^
 ||amazonaws.com^
 ||bestssrv.com^
