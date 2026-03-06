@@ -34,3 +34,5 @@
 ||doubleclick.net^
 ||googleads.g.doubleclick.net^
 ||adservice.google.com^
+||mndcdn.com^
+||adhigh.net^
