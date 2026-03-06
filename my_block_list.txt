@@ -22,7 +22,6 @@
 ||temucdn.com^
 ||umh.ua^
 ||vk.com^
-
 ||mgid.com^
 ||admixer.net^
 ||m.censor.net^
@@ -40,3 +39,7 @@
 ||fonts.gstatic.com^
 ||images.cnscdn.com^
 ||s.znctrack.net^
+||znctrack.net^
+||googletagmanager.com^
+||b-sing.com^
+
