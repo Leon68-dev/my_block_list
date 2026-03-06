@@ -23,6 +23,13 @@
 ||umh.ua^
 ||vk.com^
 
+||mgid.com^
+||admixer.net^
+||m.censor.net^
+||doubleclick.net^
+||google-analytics.com^
+||adservice.google.com^
+
 ||static.cloudflareinsights.com^
 ||cmp.setupcmp.com^
 ||google-ohttp-relay-safebrowsing.fastly-edge.com^
