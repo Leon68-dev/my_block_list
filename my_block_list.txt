@@ -32,7 +32,6 @@
 ||static.cloudflareinsights.com^
 ||cmp.setupcmp.com^
 ||google-ohttp-relay-safebrowsing.fastly-edge.com^
-||assets.censor.net^
 ||files.cnscdn.com^
 ||videos.cnscdn.com^
 ||a4.censor.net^
