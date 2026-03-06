@@ -27,7 +27,6 @@
 ||googletagmanager.com^
 ||b-sing.com^
 ||google-analytics.com^
-||znctrack.net^
 ||mgid.com^
 ||admixer.net^
 ||admixer.com^
