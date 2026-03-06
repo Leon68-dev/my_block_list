@@ -36,3 +36,4 @@
 ||adservice.google.com^
 ||mndcdn.com^
 ||adhigh.net^
+||ads.com^
