@@ -22,3 +22,15 @@
 ||temucdn.com^
 ||umh.ua^
 ||vk.com^
+||znctrack.net^
+||a4.censor.net^
+||googletagmanager.com^
+||b-sing.com^
+||google-analytics.com^
+||znctrack.net^
+||mgid.com^
+||admixer.net^
+||admixer.com^
+||marketgid.com^
+||doubleclick.net^
+||googleads.g.doubleclick.net^
