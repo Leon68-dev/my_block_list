@@ -34,3 +34,4 @@
 ||marketgid.com^
 ||doubleclick.net^
 ||googleads.g.doubleclick.net^
+||adservice.google.com^
