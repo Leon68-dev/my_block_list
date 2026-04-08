@@ -35,8 +35,3 @@
 ||mndcdn.com^
 ||adhigh.net^
 ||ads.com^
-||vk.com^
-||vk.me^
-||vkontakte.ru^
-||userapi.com^
-||vk-cdn.net^
