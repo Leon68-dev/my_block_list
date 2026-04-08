@@ -20,7 +20,6 @@
 ||temu-tracking.com^
 ||temucdn.com^
 ||umh.ua^
-||vk.com^
 ||znctrack.net^
 ||a4.censor.net^
 ||googletagmanager.com^
@@ -36,3 +35,8 @@
 ||mndcdn.com^
 ||adhigh.net^
 ||ads.com^
+||vk.com^
+||vk.me^
+||vkontakte.ru^
+||userapi.com^
+||vk-cdn.net^
