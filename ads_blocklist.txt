@@ -44,5 +44,4 @@
 ||ads.com^
 ||znctrack.net^
 ||zhctrack.net^
-||cdn.cnscdn.com^
 
