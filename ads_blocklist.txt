@@ -44,4 +44,5 @@
 ||ads.com^
 ||znctrack.net^
 ||zhctrack.net^
+||betking.com.ua^
 
