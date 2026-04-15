@@ -1,2 +1,2 @@
-! My App Exclusions
+! App Exclusions
 com.viber.voip
