@@ -1,2 +1,7 @@
 ! App Exclusions
 com.viber.voip
+com.whatsapp
+com.whatsapp.w4b
+org.telegram.messenger
+org.thunderdog.challegram
+com.facebook.orca
